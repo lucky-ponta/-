@@ -62,6 +62,7 @@ main{
 
 .title{
   margin: 10px 0 5px;
+  font: ;
 }
 
 @media screen and (max-width:768px) {
@@ -71,8 +72,8 @@ width: 100%;
 
 .step-box{
   width: 90%;
-  margin: 10px auto;
-  padding: 0px;
+  margin: 20px auto;
+  padding: 10px;
   border: 1px solid #eee;
 }
 }
